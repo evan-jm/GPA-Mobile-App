@@ -30,8 +30,11 @@ Start the Expo Server:
 ## Usage
 
 Add Courses: Tap the "+" button to add courses you are currently taking.
+
 Input Grades: Select the letter grade and credit hours for each course.
+
 Calculate Current GPA: Once all courses are added, click "Calculate GPA" to see your current GPA.
+
 Estimate Future GPA: To estimate your GPA for future semesters, click on the "Estimate GPA" tab and input expected grades for upcoming courses.
 
 ## Contributing
