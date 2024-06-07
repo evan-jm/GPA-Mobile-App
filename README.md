@@ -11,21 +11,10 @@ This GPA Calculator Mobile App, built with React Native using Expo, offers stude
 
 ## Installation
 
-Clone the Repository:
-
-      git clone https://github.com/yourusername/gpa-calculator.git
-
-Navigate to the Project Directory:
-
-      cd gpa-calculator
-
-Install Dependencies:
-
-      npm install
-
-Start the Expo Server:
-
-      npm start
+1. Clone the Repository: `git clone https://github.com/yourusername/gpa-calculator.git`
+2. Navigate to the Project Directory: `cd gpa-calculator`
+3. Install Dependencies: `npm install`
+4. Start the Expo Server: `npm start`
 
 ## Usage
 
