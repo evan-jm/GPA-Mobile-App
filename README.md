@@ -11,20 +11,29 @@ This GPA Calculator Mobile App, built with React Native using Expo, offers stude
 
 ## Installation
 
-1. Clone the Repository: `git clone https://github.com/yourusername/gpa-calculator.git`
+1. Clone the Repository: `git clone https://github.com/evan-jm/GPA-Mobile-App.git`
 2. Navigate to the Project Directory: `cd gpa-calculator`
 3. Install Dependencies: `npm install`
 4. Start the Expo Server: `npm start`
 
 ## Usage
 
-Add Courses: Tap the "+" button to add courses you are currently taking.
+- Add Courses: Tap the "+" button to add courses you are currently taking.
+- Input Grades: Select the letter grade and credit hours for each course.
+- Calculate Current GPA: Once all courses are added, click "Calculate GPA" to see your current GPA.
+- Estimate Future GPA: To estimate your GPA for future semesters, click on the "Estimate GPA" tab and input expected grades for upcoming courses.
 
-Input Grades: Select the letter grade and credit hours for each course.
+## Roadmap
 
-Calculate Current GPA: Once all courses are added, click "Calculate GPA" to see your current GPA.
-
-Estimate Future GPA: To estimate your GPA for future semesters, click on the "Estimate GPA" tab and input expected grades for upcoming courses.
+- [ ] **Version 1.0**
+  - [ ] Add course feature
+  - [ ] Input grades feature
+  - [ ] Calculate current GPA feature
+  - [ ] Estimate future GPA feature
+- [ ] **Version 1.1**
+  - [ ] Add ability to export data as CSV for backup and sharing
+  - [ ] Implement dark mode
+  - [ ] Implement calendar feature for keeping track of classes and due dates
 
 ## Contributing
 
